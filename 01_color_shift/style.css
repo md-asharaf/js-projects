@@ -1,0 +1,8 @@
+.box{
+    height: 30vh;
+    width: 30vw;
+    border:1px solid black;
+}
+body{
+    text-align: center;
+}
